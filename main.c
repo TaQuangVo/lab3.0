@@ -4,7 +4,8 @@
 #include "./functions/functions.h"
 
 
-// run command: gcc main.c ./functions/functions.c ./lib/lib.c -lncurses -o main.exe
+// run command 1: gcc main.c ./functions/functions.c ./lib/lib.c -lncurses -o main.exe
+// run command 1: ./main.exe
 
 int main () {
     Nav homeNav;
